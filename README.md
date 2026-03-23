@@ -26,7 +26,7 @@ Early alpha build exploring DSP relating to saturation and emulation of classic 
 2. Install dependencies
 3. Open the notebook
 
-Outcomes
+## Outcomes
 - Understanding nonlinear distortion and harmonic generation
 - Managing aliasing in digital systems
 - Implementing oversampling techniques
