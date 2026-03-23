@@ -1,6 +1,6 @@
 # Tascam 414-Inspired Saturation Plugin (Python Prototype)
 
-#Why I Have Chosen This Project
+## Why I Have Chosen This Project
 I hope to bridge practical audio engineering experience with digital signal processing.
 Instead of generic saturation processing, i want to analyse and model the behaviour of real hardware and translate these characteristics into digital systems.
 
