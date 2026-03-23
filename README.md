@@ -1,13 +1,32 @@
 # Tascam 414-Inspired Saturation Plugin (Python Prototype)
 
+#Why I Have Chosen This Project
+I hope to bridge practical audio engineering experience with digital signal processing.
+Instead of generic saturation processing, i want to analyse and model the behaviour of real hardware and translate these characteristics into digital systems.
+
 ## Overview
 This project explores the development of a cassette-style saturation effect using Python and digital signal processing (DSP) principles.
+
+It will:
+-Process audio files
+-Apply controllable saturation
+-Demonstrate aliasing and oversampling
+-Form the basis for hardware-referenced DSP modelling
 
 ## Current Status
 Alpha prototype
 
+## Current Capabilities
+- Real-time style DSP pipeline (offline processing)
+- Adjustable input gain and saturation drive
+- RMS-based autogain for fair comparison
+- Tone shaping via simple filtering
+- Oversampling prototype to reduce aliasing
+- Hardware comparison workflow (in progress)
+
 ## In Progress
 - Hardware reference comparison workflow (Tascam 414 mkII)
+
 
 ## Features
 - Nonlinear saturation using tanh
