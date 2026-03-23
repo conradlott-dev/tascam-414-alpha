@@ -3,6 +3,12 @@
 ## Overview
 This project explores the development of a cassette-style saturation effect using Python and digital signal processing (DSP) principles.
 
+## Current Status
+Alpha prototype
+
+## In Progress
+- Hardware reference comparison workflow (Tascam 414 mkII)
+
 ## Features
 - Nonlinear saturation using tanh
 - Harmonic analysis via FFT
